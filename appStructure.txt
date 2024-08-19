@@ -1,0 +1,25 @@
+student_portal
+|
++--- student_register
+|   |
+|   +-- migrations
+|   |
+|   +-- templates
+|   |  |-- student_register
+|   |  |  |-- base.html
+|   |  |  |-- student_form.html
+|   |  |  |-- student_list.html
+|   |
+|   +-- static
+|   |  |-- css
+|   |  |  |-- styles.css
+|   |
+|   +-- models.py
+|   +-- forms.py
+|   +-- urls.py
+|   +-- views.py
+|
++--- student_portal
+|   |
+|   |-- settings.py
+|   |-- urls.py
