@@ -1,4 +1,4 @@
-***Student Register Portal**
+**Student Register Portal**
 Student Register Portal is a Python Django project designed to implement CRUD (Create, Read, Update, Delete) operations. 
 This project serves as a registration system for students, allowing administrators to manage student data efficiently.
 ## Features
